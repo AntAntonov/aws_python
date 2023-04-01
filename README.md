@@ -1,7 +1,7 @@
 
 # AWS re/Start course files
 
-My experimental and test files during the course
+My experimental and test files during the AWS re/Start course
 
 
 
